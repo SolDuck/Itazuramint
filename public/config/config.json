@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC4E09ff1AF7B141B2Be378254d533e36fD2d4a32",
+  "SCAN_LINK": "https://polygonscan.com/token/0xC4E09ff1AF7B141B2Be378254d533e36fD2d4a32",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Itazura",
+  "SYMBOL": "ITZ",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 9500000000000000000,
+  "DISPLAY_COST": 9.6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/itazura",
+  "SHOW_BACKGROUND": true
+}
